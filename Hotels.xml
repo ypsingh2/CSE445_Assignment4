@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+	<!-- hotel 1 -->
+	<Hotel id="H1" Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>E 7th Street</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearestAirport>Phoenix Sky Harbor</NearestAirport>
+		</Address>
+	</Hotel>
+
+	<!-- hotel 2 -->
+	<Hotel id="H2" Rating="3.8">
+		<Name>Mariott</Name>
+		<Phone>480-555-1020</Phone>
+		<Address>
+			<Number>200</Number>
+			<Street>W Rio Salado Pkwy</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearestAirport>Phoenix Sky Harbor</NearestAirport>
+		</Address>
+	</Hotel>
+	
+	<!-- hotel 3 -->
+	<Hotel id="H3" Rating="4.5">
+		<Name>Hilton Garden Inn</Name>
+		<Phone>480-987-2222</Phone>
+		<Address>
+			<Number>4000</Number>
+			<Street>S Rural Rd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+			<NearestAirport>Phoenix Sky Harbor</NearestAirport>
+		</Address>
+	</Hotel>
+	
+	<!-- hotel 4 -->
+	<Hotel id="H4"> 
+		<Name>Hyatt Place</Name>
+		<Phone>480-111-3333</Phone>
+		<Address>
+			<Number>1900</Number>
+			<Street>E Apache Blvd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearestAirport>Phoenix Sky Harbor</NearestAirport>
+		</Address>
+	</Hotel>
+	
+	<!-- hotel 5 -->
+	<Hotel id="H5" Rating="4.0">
+		<Name>Holiday Inn</Name>
+		<Phone>480-444-5555</Phone>
+		<Address>
+			<Number>60</Number>
+			<Street>W 5th Street</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearestAirport>Phoenix Sky Harbor</NearestAirport>
+		</Address>
+	</Hotel>
+	
+	<!-- hotel 6 -->
+	<Hotel id="H6" Rating="3.7">
+		<Name>Comfort Suites</Name>
+		<Phone>480-321-9876</Phone>
+		<Address>
+			<Number>730</Number>
+			<Street>S Mill Ave</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearestAirport>Phoenix Sky Harbor</NearestAirport>
+		</Address>
+	</Hotel>
+	
+	<!-- hotel 7 -->
+	<Hotel id="H7" Rating="4.1">
+		<Name>Embassy Suites</Name>
+		<Phone>480-852-3210</Phone>
+		<Address>
+			<Number>4400</Number>
+			<Street>S Rural Rd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+			<NearestAirport>Phoenix Sky Harbor</NearestAirport>
+		</Address>
+	</Hotel>
+	
+	<!-- hotel 8 -->
+	<Hotel id="H8" Rating="3.9">
+		<Name>Residence Inn</Name>
+		<Phone>480-987-6543</Phone>
+		<Address>
+			<Number>507</Number>
+			<Street>E Broadway Rd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+			<NearestAirport>Phoenix Sky Harbor</NearestAirport>
+		</Address>
+	</Hotel>
+	
+	<!-- hotel 9 -->
+	<Hotel id="H9" Rating="4.3">
+		<Name>Courtyard by Mariott</Name>
+		<Phone>480-666-7777</Phone>
+		<Address>
+			<Number>601</Number>
+			<Street>S Ash Ave</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearestAirport>Sky Harbor</NearestAirport>
+		</Address>
+	</Hotel>
+	
+	<!-- hotel 10 -->
+	<Hotel id="H10" Rating="4.0">
+		<Name>AC Hotel Downtown</Name>
+		<Phone>480-789-1234</Phone>
+		<Address>
+			<Number>100</Number>
+			<Street>E Rio Salado Pkwy</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearestAirport>Phoenix Sky Harbor</NearestAirport>
+		</Address>
+	</Hotel>
+</Hotels>
