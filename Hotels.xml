@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
 	<!-- hotel 1 -->
-	<Hotel id="H1" Rating="4.2">
+	<Hotel id="H1" _Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
@@ -16,7 +16,7 @@
 	</Hotel>
 
 	<!-- hotel 2 -->
-	<Hotel id="H2" Rating="3.8">
+	<Hotel id="H2" _Rating="3.8">
 		<Name>Mariott</Name>
 		<Phone>480-555-1020</Phone>
 		<Address>
@@ -30,7 +30,7 @@
 	</Hotel>
 	
 	<!-- hotel 3 -->
-	<Hotel id="H3" Rating="4.5">
+	<Hotel id="H3" _Rating="4.5">
 		<Name>Hilton Garden Inn</Name>
 		<Phone>480-987-2222</Phone>
 		<Address>
@@ -58,7 +58,7 @@
 	</Hotel>
 	
 	<!-- hotel 5 -->
-	<Hotel id="H5" Rating="4.0">
+	<Hotel id="H5" _Rating="4.0">
 		<Name>Holiday Inn</Name>
 		<Phone>480-444-5555</Phone>
 		<Address>
@@ -72,7 +72,7 @@
 	</Hotel>
 	
 	<!-- hotel 6 -->
-	<Hotel id="H6" Rating="3.7">
+	<Hotel id="H6" _Rating="3.7">
 		<Name>Comfort Suites</Name>
 		<Phone>480-321-9876</Phone>
 		<Address>
@@ -86,7 +86,7 @@
 	</Hotel>
 	
 	<!-- hotel 7 -->
-	<Hotel id="H7" Rating="4.1">
+	<Hotel id="H7" _Rating="4.1">
 		<Name>Embassy Suites</Name>
 		<Phone>480-852-3210</Phone>
 		<Address>
@@ -100,7 +100,7 @@
 	</Hotel>
 	
 	<!-- hotel 8 -->
-	<Hotel id="H8" Rating="3.9">
+	<Hotel id="H8" _Rating="3.9">
 		<Name>Residence Inn</Name>
 		<Phone>480-987-6543</Phone>
 		<Address>
@@ -114,7 +114,7 @@
 	</Hotel>
 	
 	<!-- hotel 9 -->
-	<Hotel id="H9" Rating="4.3">
+	<Hotel id="H9" _Rating="4.3">
 		<Name>Courtyard by Mariott</Name>
 		<Phone>480-666-7777</Phone>
 		<Address>
@@ -128,7 +128,7 @@
 	</Hotel>
 	
 	<!-- hotel 10 -->
-	<Hotel id="H10" Rating="4.0">
+	<Hotel id="H10" _Rating="4.0">
 		<Name>AC Hotel Downtown</Name>
 		<Phone>480-789-1234</Phone>
 		<Address>
